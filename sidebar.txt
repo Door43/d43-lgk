@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[lgk:home|Door43 (lgk)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-lgk|d43-lgk repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-lgk/archive/master.zip|d43-lgk.zip]]
+
+**Recent Changes**
+{{changes>ns = lgk}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/lgk|Ethnologue data]]
+
